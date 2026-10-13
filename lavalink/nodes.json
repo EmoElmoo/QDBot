@@ -9,7 +9,7 @@
   {
     "host": "lavalink.jirayu.net",
     "port": 443,
-    "password": "youshallnotpass",
+    "password": "applehead",
     "secure": true,
     "name": "Jirayu"
   },
