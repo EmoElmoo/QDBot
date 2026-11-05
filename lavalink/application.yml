@@ -1,5 +1,5 @@
 server:
-  port: 443
+  port: 2333
   address: 0.0.0.0
 
 lavalink:
@@ -9,7 +9,7 @@ lavalink:
   server:
     password: "${LAVALINK_PASSWORD:applehead}"
     sources:
-      youtube: true
+      youtube: false
       bandcamp: true
       soundcloud: true
       http: true
